@@ -162,7 +162,7 @@ export default function Home() {
               </motion.button>
             </Link>
             <p className="text-gray-400 mt-4">
-              Подробная информация на странице "Обо мне"
+              Подробная информация на странице «Обо мне»
             </p>
           </motion.div>
         </div>
