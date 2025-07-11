@@ -2,7 +2,6 @@
 
 import { motion } from 'framer-motion';
 import { Mail, Phone, Send, CheckCircle, Copy, Check } from 'lucide-react';
-import Link from 'next/link';
 import { useState } from 'react';
 import { VKIcon, TelegramIcon } from '@/components/SocialIcons';
 
